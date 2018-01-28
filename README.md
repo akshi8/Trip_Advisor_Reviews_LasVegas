@@ -1,10 +1,10 @@
 # Trip Advisor Hotel Score prediction for Las Vegas Strip
 
-## Author: Akshi Chaudhary
-## Date : January, 28th, 2018
+#### Author: Akshi Chaudhary
+#### Date : January, 28th, 2018
 
-[Code](https://github.com/akshi8/Trip_Advisor_Reviews_LasVegas/blob/master/code/EDA.ipynb)
-[Project Report](https://github.com/akshi8/Trip_Advisor_Reviews_LasVegas/blob/master/results/EDA.md)
+* [Code](https://github.com/akshi8/Trip_Advisor_Reviews_LasVegas/blob/master/code/EDA.ipynb)
+* [Project Report](https://github.com/akshi8/Trip_Advisor_Reviews_LasVegas/blob/master/results/EDA.md)
 
 ## Context
 This dataset includes quantitative and categorical features from online reviews from 21 hotels located in Las Vegas Strip, extracted from TripAdvisor. All the 504 reviews were collected between January and August of 2015.
